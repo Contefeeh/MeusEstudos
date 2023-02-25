@@ -1,4 +1,4 @@
 # MeusEstudos
  Repositorio focado nos meus estudos
 
-Curso 1 - Csharp
+Primeir Curso: Csharp
